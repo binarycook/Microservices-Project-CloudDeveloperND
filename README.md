@@ -1,12 +1,4 @@
-# Cloud-developer-Project : Udacity Nano degree project
-
-Links to Docker-hub images: 
-  - Feed: https://hub.docker.com/repository/docker/zakidokerid/udacity-restapi-feed
-  - User: https://hub.docker.com/repository/docker/zakidokerid/udacity-restapi-user 
-  - Frontend: https://hub.docker.com/repository/docker/zakidokerid/udacity-frontend 
-  - ReverseProxy: https://hub.docker.com/repository/docker/zakidokerid/reverseproxy
-
-Screenshots are located in the root of the repository.
+# Microservices-Project-CloudDeveloperND
 
 Instructions: 
   - Build the images: 
